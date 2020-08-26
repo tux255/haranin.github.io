@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/haranin.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/haranin.github.io/static/js/main.564b6881.chunk.js",
+    "main.js.map": "/haranin.github.io/static/js/main.564b6881.chunk.js.map",
+    "runtime-main.js": "/haranin.github.io/static/js/runtime-main.9c96e4ed.js",
+    "runtime-main.js.map": "/haranin.github.io/static/js/runtime-main.9c96e4ed.js.map",
+    "static/js/2.fb24facc.chunk.js": "/haranin.github.io/static/js/2.fb24facc.chunk.js",
+    "static/js/2.fb24facc.chunk.js.map": "/haranin.github.io/static/js/2.fb24facc.chunk.js.map",
+    "index.html": "/haranin.github.io/index.html",
+    "precache-manifest.be4ea2c3736dd129c197b740d3382af6.js": "/haranin.github.io/precache-manifest.be4ea2c3736dd129c197b740d3382af6.js",
+    "service-worker.js": "/haranin.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/haranin.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fb24facc.chunk.js.LICENSE.txt": "/haranin.github.io/static/js/2.fb24facc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/haranin.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c96e4ed.js",
+    "static/js/2.fb24facc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.564b6881.chunk.js"
+  ]
+}
